@@ -1,3 +1,5 @@
 coso de archivo dos para aprender usar git
 
 coso por no sé un cambio difernte
+
+un comit alternativo
