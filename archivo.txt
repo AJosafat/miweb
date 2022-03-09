@@ -1,1 +1,13 @@
 coso uno para aprender a usar git
+
+primero se pasa a la etapa de stage,
+después se compromete el agregado a la etapa de stage
+
+comando para crear archivo mkdir
+comando para borrar archivo rm 
+comando para renombrar archivo mv 
+
+Se puede pasar a stage manualmente utilizando el comando git add 
+o puedes usar la abreviación git antes de la creación, borrado, renombrado, o modificación del archivo
+
+una vez agregado a la etapa de stage puedes restarurar los cambios, o procder a comprometer el movimiento de los archivos con el comando git commit
