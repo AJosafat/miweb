@@ -11,3 +11,5 @@ Se puede pasar a stage manualmente utilizando el comando git add
 o puedes usar la abreviación git antes de la creación, borrado, renombrado, o modificación del archivo
 
 una vez agregado a la etapa de stage puedes restarurar los cambios, o procder a comprometer el movimiento de los archivos con el comando git commit
+
+agrego una linea por mera función del curso 
